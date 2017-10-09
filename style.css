@@ -12,7 +12,7 @@ body{
     background-size: 100%; 
     background-attachment: fixed; 
 }
-h1{
+h1, #title {
     font-family: "anisha", sans-serif;
     text-align: center;
     color: white;
@@ -58,7 +58,7 @@ h1{
 }
 h2{
     color: white;
-    text-align: left
+    text-align: center;
 }
 a:link {
     color: white; 
@@ -74,7 +74,7 @@ a:visited {
     background-image: url(images/cblossoms.jpg);
 }
 #alist {
-    width: 250px;
+    width: 500px;
     margin: auto;
     font-size: 20px;
     color: white;
@@ -102,4 +102,14 @@ a:visited {
 #tsize {
     font-size: 20px;
     color: white;
+}
+#column {
+    column-count: 2;
+    column-gap: 10px;
+    column-rule: solid 1px white;
+}
+#workc {
+    column-count: 3;
+    column-gap: 10px;
+    column-rule: solid 1px white;
 }

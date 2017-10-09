@@ -128,11 +128,10 @@ a:visited {
 }
 #contact {
     width: 100%;
-    line-height: 44px;
-    text-align: center;
+    line-height: 14px;
+    text-align: right;
     background-color: transparent;
     color: white;
-    position: right;
-    left: 0;
-    bottom: right;
+    position: absolute;
+    bottom: -200px;
 }

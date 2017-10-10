@@ -7,8 +7,8 @@
     src: url(fonts/gebody.ttf);
 }
 @font-face{
-    font-family: bebasneue;
-    src: url(fonts/bebasneue.otf)
+    font-family: keepcalm;
+    src: url(fonts/keepcalm.ttf)
 }
 body{
     background-image: url(images/space.jpg);

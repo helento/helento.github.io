@@ -86,9 +86,6 @@ a:visited {
     background-color: transparent;
     text-decoration: none;
 }
-#pbody {
-    background-image: url(images/cblossoms.jpg);
-}
 #alist {
     width: 500px;
     margin: auto;
